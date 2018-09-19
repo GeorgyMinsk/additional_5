@@ -1,4 +1,5 @@
 module.exports = function check(str, bracketsConfig) {
+<<<<<<< HEAD
 var chek = [[0,0],[0,0],[0,0],[0,0],[0,0],[0,0],[0,0],[0,0],[0,0],[0,0]];
 // var brackets=["(",")","{","}","[","]",'|','|'];
 var lates_open,b;
@@ -33,5 +34,9 @@ var lates_open,b;
         return false;
    }
   return true;
+=======
+  return true;
+  // your solution
+>>>>>>> 2983246f0710754dd22bf39caa23e66b7cbaa06b
 }
 
